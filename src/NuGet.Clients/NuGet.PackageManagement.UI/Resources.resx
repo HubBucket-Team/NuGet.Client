@@ -196,7 +196,7 @@
     <value>Publisher(s):</value>
   </data>
   <data name="Label_Readme" xml:space="preserve">
-    <value>README:</value>
+    <value>Readme:</value>
   </data>
   <data name="Label_Repository" xml:space="preserve">
     <value>Package source:</value>
@@ -436,7 +436,7 @@ Packages installed into Website projects will not be restored during build. Cons
     <value>View License</value>
   </data>
   <data name="Text_ViewReadme" xml:space="preserve">
-    <value>View README</value>
+    <value>View Readme</value>
   </data>
   <data name="Text_NotAvailableInSource" xml:space="preserve">
     <value>Not available in this source</value>
@@ -904,7 +904,7 @@ Please see https://aka.ms/troubleshoot_nuget_cache for more help.</value>
     <value>Project URL</value>
   </data>
   <data name="Hyperlink_Readme" xml:space="preserve">
-    <value>README</value>
+    <value>Readme</value>
   </data>
   <data name="Hyperlink_ReportAbuse" xml:space="preserve">
     <value>Report Abuse</value>
